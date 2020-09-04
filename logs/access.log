@@ -1,0 +1,4 @@
+172.18.0.1 - - [03/Sep/2020:16:35:20 +0900] "GET /index.html HTTP/1.1" 200 12 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0" "-"
+172.18.0.1 - - [03/Sep/2020:16:35:20 +0900] "GET /favicon.ico HTTP/1.1" 404 27 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0" "-"
+172.18.0.1 - - [03/Sep/2020:16:35:25 +0900] "GET /phpinfo.php HTTP/1.1" 200 88520 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0" "-"
+172.18.0.1 - - [03/Sep/2020:16:58:13 +0900] "GET / HTTP/1.1" 200 2438 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:79.0) Gecko/20100101 Firefox/79.0" "-"
